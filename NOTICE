@@ -1,0 +1,10 @@
+UUON-HAE-001 — Hydrogenoid Atom Engine
+Copyright (c) 2026 UUON Foundation Inc.
+
+This software implements standard, publicly documented quantum-mechanical
+formulas (hydrogenic wavefunctions, generalized Laguerre polynomials,
+associated Legendre polynomials). No proprietary UUON Foundation frameworks,
+naming, or unpublished methods are contained in this repository.
+
+See AUTHORS.md for contributor and provenance details.
+See LICENSE for terms of use.

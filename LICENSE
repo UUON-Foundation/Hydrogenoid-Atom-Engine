@@ -1,0 +1,29 @@
+UUON Foundation Source-Available License — DRAFT PLACEHOLDER
+==============================================================
+
+NOTE TO PHILLIP: this is a structural draft only, not your finalized SAL-1.0
+text. I don't have your canonical license document on file, and I'm not a
+lawyer — replace this file with your actual SAL-1.0 license text before
+treating this repository as legally finalized. The structure below follows
+the shape of a typical source-available license (viewable, attribution
+required, commercial-use-restricted) so the repo isn't shipped with no
+license at all in the meantime.
+
+---
+
+Copyright (c) 2026 UUON Foundation Inc. All rights reserved.
+
+1. GRANT. Permission is granted to view, fork, and modify this source code
+   for personal, educational, and non-commercial evaluation purposes.
+
+2. ATTRIBUTION. Any redistribution or derivative work must retain this
+   notice, the NOTICE file, and AUTHORS.md unmodified.
+
+3. COMMERCIAL USE. Commercial use, sublicensing, or incorporation into a
+   commercial product requires prior written permission from UUON
+   Foundation Inc.
+
+4. NO WARRANTY. This software is provided "as is", without warranty of any
+   kind, express or implied.
+
+[Replace this draft with the final UUON SAL-1.0 license text.]

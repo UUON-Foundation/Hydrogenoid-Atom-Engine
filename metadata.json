@@ -1,0 +1,24 @@
+{
+  "engineId": "UUON-HAE-001",
+  "name": "Hydrogenoid Atom Engine",
+  "version": "1.1.0",
+  "format": "jsx-react-three",
+  "created": "2026-07-06",
+  "lastModified": "2026-07-06",
+  "organization": "UUON Foundation Inc.",
+  "description": "Interactive point-cloud and outer-isosurface visualization of hydrogen-like atomic orbitals, computed via generalized Laguerre / associated Legendre recurrences and Cartesian rejection sampling of |psi|^2.",
+  "dependencies": ["react", "three"],
+  "proprietaryFrameworkReferences": "none - standard quantum mechanics only",
+  "renderModes": ["points", "wire", "both"],
+  "physicalModel": {
+    "system": "one-electron hydrogenic ion",
+    "nRange": [1, 8],
+    "ZRange": [1, 10],
+    "screeningModeled": false
+  },
+  "knownLimitations": [
+    "n capped at 8 due to rejection-sampling acceptance rate, not physics",
+    "wireframe draws outermost isosurface shell only",
+    "idle motion (spring-kick jitter, camera drift) is artistic, not physical"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "hydrogenoid-atom-engine",
+  "version": "1.1.0",
+  "private": false,
+  "description": "Interactive hydrogen-like atomic orbital visualizer (point cloud + outer isosurface) built with React and Three.js.",
+  "main": "src/HydrogenoidAtomEngine.jsx",
+  "scripts": {
+    "lint": "eslint src --ext .jsx,.js"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "three": ">=0.128.0 <0.129.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "keywords": ["quantum-mechanics", "three.js", "react", "visualization", "orbitals"],
+  "license": "SEE LICENSE IN LICENSE"
+}
