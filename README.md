@@ -47,8 +47,5 @@ representations.
 * Use GitHub Pages by setting up auto-publishing in your repository 
 settings.
 
-**License:**
-
-See LICENSE and NOTICE files for details.
 
 >>> Send a message (/? for help)
