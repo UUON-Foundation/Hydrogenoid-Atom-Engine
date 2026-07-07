@@ -3,8 +3,8 @@
 An interactive tool that shows what an electron's probability cloud actually
 looks like around a hydrogen-like atom (one electron, any nuclear charge).
 Built with React and Three.js.
-
-<img width="2158" height="1514" alt="E7FB65BE-7D4A-41FD-BB88-69DCE56A8B9E_1_201_a" src="https://github.com/user-attachments/assets/04dc19a3-ff03-468f-8c33-f894906567d4" />
+h
+<img width="2158" height="1514" alt="E7FB65BE-7D4A-41FD-BB88-69DCE56A8B9E_1_201_a" src="[ttps://github.com/user-attachments/assets/04dc19a3-ff03-468f-8c33-f894906567d4](https://github.com/UUON-Foundation/Hydrogenoid-Atom-Engine/blob/2c7c75c4d57fc1e9ba4b6f832e6023654a864155/video/hydrogenoid-atom-%CE%B4%CE%B5%CE%BC%CE%BF.mov)" />
 
 
 This does not change or reinterpret physics. It visualizes standard quantum
