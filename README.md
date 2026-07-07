@@ -4,6 +4,8 @@ An interactive tool that shows what an electron's probability cloud actually
 looks like around a hydrogen-like atom (one electron, any nuclear charge).
 Built with React and Three.js.
 
+[mov![https://github.com/UUON-Foundation/Hydrogenoid-Atom-Engine/blob/ea259105c66b25f9837c37e13763d2118fac8c20/video/hydrogenoid-atom-%CE%B4%CE%B5%CE%BC%CE%BF.mov]
+
 This does not change or reinterpret physics. It visualizes standard quantum
 mechanics that has existed for about a century. The value here is the
 visualization and the engineering behind it, not new science.
